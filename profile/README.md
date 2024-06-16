@@ -16,8 +16,8 @@ MAJORITY OF PROJECTS ARE HIDDEN. YOU WILL SEE WHAT WE **ALLOW**.
 - **PROJECT LITRAX**
   - Project Status
       - [x] Started
-      - [] In-Dev
-      - [] Finished
+      - [ ] In-Dev
+      - [ ] Finished
 - **PROJECT HEDGE**
   - Project Status
     - [X] Started
